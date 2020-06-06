@@ -1,0 +1,681 @@
+click environment variables
+
+double click on path
+
+click new
+
+and ctrl+v
+
+quit the xampp
+
+why do you off
+
+just while I am on your com
+
+once work is done, turn on it
+
+what is the name you just off so that i can remeber to on later
+
+I will do that
+
+thankyou
+
+stop it
+
+start both
+
+can I uninstall the filezila?
+
+where
+
+this one
+
+you mean to delate
+
+yes, 
+ok
+
+wow,lll
+
+what
+
+apache is running
+
+so
+
+fixed!
+
+how
+
+coz of the filezila uninstall
+
+so how now\
+
+the same as yesterday, so it could be ran
+
+ok
+
+thankyou so much, maybe fixed
+
+you sure
+fix already
+
+maybe fixed
+
+yes
+
+when can fix
+
+filezila
+
+ok
+we should try to uploan online
+
+do you have hostinyes
+yes
+long time
+
+do you have cpanel
+yes
+gooftp
+ftp
+
+prefect
+
+before we go online
+
+login to user again
+some write up cant be see
+
+sure
+
+profile
+notification
+
+what do you mean?
+
+you only put my profile 
+
+notification on the prev to ther suzie smith?
+
+in the menu?
+yes
+Account Menu
+profile
+I see
+
+plan
+offer
+support
+s
+
+where to place plan offer and support?
+Account Menu
+yes
+
+got it
+
+logo
+
+what do you prefer?
+
+like what
+
+logo color.
+
+red or blue or green
+red is the logo
+
+I se
+
+can it play movies now
+
+because i don't have movie,
+
+if you want, I will m
+
+you see the facebook
+
+so to run fb video on your site?
+
+the promote movie
+
+name of the website
+afrixis
+
+so is this your logo?
+
+yes
+
+please give me your logo.png file.
+
+
+i dont have phg
+
+I see, anything m ore?
+
+
+
+ok
+and the intros movie
+what is that/
+
+then you should send me the video file
+
+want to put the video on landing page
+
+so on this stage, don't need this video
+
+we can use it as testing 
+
+send me the video file o
+email address
+
+skype?
+
+dontt have 
+
+then which email?
+
+any one 
+
+I have gmail
+
+ok
+bec is big file
+maybe you can download on facebook
+
+sorry, I don't have fb accout
+
+ok
+give me gmail
+smithgangyouji@gmail.com
+
+and send me this file via freelancer
+ gmail.com .or co
+
+ok
+what is next
+
+how it look in phone
+this is desk
+
+mobile responsive issue is the next phase?
+
+
+ok
+
+please send me this file v
+
+admin page ok
+
+??
+
+mobile?
+
+desk
+admin page ok means?
+
+
+working fine
+
+you saw it ye
+
+how to know if the user already sub/pay
+
+pay?
+
+subscribe and pay
+
+what is the pay?
+
+remeber the payment gateways
+how to know if the user already pay for the pre-subscribe
+
+I got it, but it should be implemented when we do the payment funtion on your site.
+
+the function is implemented, then admin funtion is added according to the change.
+
+ok
+as far you get it is ok with me
+
+thnq so much
+
+what is next
+
+no
+
+what is the next step
+
+http://localhost/video/user/adminuserTable
+user id and password
+
+in this url?
+
+yes
+so later i can test it 
+in the morning
+
+you there
+
+changed
+
+what is the user id and password
+write it here
+
+admin@gmail.com111
+root
+
+let's change again into adm
+
+
+current
+admin@gmail.com
+root
+
+
+give  addmin and user
+
+admin@gmail.com
+root
+
+test@gmail.com
+root
+
+
+ok
+ i just use this link
+http://localhost/video/user/
+righ??
+what do you mean
+
+if i wan to test it later
+i just enter the link above\
+right???
+
+you can enter localhost/video only
+
+and enter the admin adddress and pass
+then it goes into his
+
+ok
+
+ localhost/video
+
+i will send you the pic of the logo and the intro video and this txt file
+
+ok
+
+just a sec
+
+logo is not easy, so I woulld be good to send me png file
+
+ok
+size??
+
+big is good for me
+
+in the menu?
+yes
+Account Menu
+profile
+I see
+
+i will send you the info you will add to the account
+
+good
+
+dont forget to add phone number
+and location in the profile area
+
+I see
+
+and what is the detail of the plan offer and support pages?
+
+
+in the account menu1 area 
+I know t
+1 profile\
+2 Plan
+
+Menu 2
+Notificatio
+Offers
+
+Support menu3
+contact 
+FAQ
+Terms of use
+Privacy policy
+S
+Setting menu
+
+these are the next phase?
+
+ the detail of the plan offer and support pages.
+I mean .../plan offer page is needed?
+
+i plan for 2 plan ...free abd VIP
+
+I mean,... the plan page is needed?
+
+just like http://localhost/video/user/plan_offer
+
+ok
+
+tell me the detail of this page. I meanat
+ok
+so i send tomorrow
+
+
+let me clear
+
+in the account menu1 area 
+I know t
+1 profile\
+2 Plan
+
+Menu 2
+Notificatio
+Offers
+
+Support menu3
+contact 
+FAQ
+Terms of use
+Privacy policy
+S
+Setting menu
+
+menu 2 and 3 are the nextstage?
+
+how you mean
+I mean these are not included in this stage.
+
+maybe in landing page stage or something
+
+ sth what
+
+menu 2 and 3 are in the user page
+
+right, but user page should be improved for all time
+
+such as the payment.
+
+so I mean, user page is not completed in this stage and it is improved continuously
+
+mean that you will do it or add it when you do the payment gateway
+
+not exactly, it is not related with payment, I just stand an example
+
+and we divided the project into several stage, so menu2 and 3 are included in landnig page stage or some certain stage Im ean
+
+i really dont get you
+you mean when you are doing the landing page will do it
+yes
+
+as we agreed on $100 that is what you are asking me but i said make it down for me 
+remember
+
+yes, I asked 100 for landing page, but you said me to find the better offer, I remember
+
+so
+
+offer the best
+
+landing is 70
+
+ok
+
+this 70 will includ other like menus
+
+Menu 2
+Notificatio
+Offers
+Support menu3
+contact 
+FAQ
+Terms of use
+Privacy policy
+S
+Setting menu
+
+these are many pages.
+so working amount decides the cost I think
+
+working is not so small, 
+
+plan offer and support I understand
+
+contact 
+FAQ
+Terms of use
+Privacy policy
+S
+Setting menu
+Notificatio    
+these I didn't see infreelancer honestly, so I tell you
+
+contact 
+FAQ
+Terms of use
+Privacy policy
+S
+Setting menu
+Notificatio 
+
+this are just pages
+
+yes, more pages.
+
+so how
+
+that's why I suggest you the next phase
+
+maybe included in landing stage, landing 70 + menu pages 20 * 6
+
+20x6
+120
+these 6 items.
+
+wow
+you are killing me
+
+haha, so sorry, I just told my estimate.
+
+what is your opinion, but don't make me to so cheap
+
+i dont know what to say
+what is your opinion?
+
+let uploand online and see if it work fine
+
+sure, I am familiar in cpanel, 
+so menu2 and 3 are not included in current milestone
+
+what about mobile responsivess
+
+we discussed the mobile version 150, you remember that?
+
+but.... can be easy.
+
+why mobile responsivess is high more than website
+
+not expensive more than website
+
+how
+landing page you are asking for 70
+mobile responsivess 150
+
+landing page is one page, and mobile responsive is for all pages of your site, 
+including admin pages, it should be more than 20 pages.. so I tell you like that
+
+dont including admin
+
+so mobile is for only user page?
+
+and landing
+I see, but I will serve you admin responsive in the budget of the user page mobile responsive and landing
+
+no one see admin page only admin
+
+so I tell you I will do admin responsive in freee
+
+so
+mobile version, let's do 80 for more than 10 pages
+
+for all both admin, users, landing page, I cost 80
+ or what
+
+all my budget is 400
+i have pay 
+300 for user and admin
+balan 100
+you want 70 landing
+not yet payment gateway
+so how
+
+why do you say "all my budget is 400  now?
+
+kkk
+
+so now what is next
+
+don't be angry with me :)
+
+but menu2 and 3 is included in next stage,
+
+and payment is not available for total 400.
+
+as I said in freelancer.
+
+you mean no payment?
+
+I am able to do payment function, but I can't do it in 400
+
+so  you should pay more for payment, I hope you remember and understand this point
+
+are you saying that 400 
+including
+admin+user+ landing+ menus2 and 3 + mobile version, 
+
+admin+user we agreed in 300, but current is 250, template 20 == total 250(no need to pay 30 )
+ landing == 70
+menus2 and 3 = 80
+mobile version = 80
+270+70+80+80 = 500 
+wow
+is more than 400
+yes, but all items are not expesive individualyy
+to you not expesive
+to me is very expesive for marketing testing
+
+450.
+not yet payment
+without payment to how sub or sign up
+then 430z .... I am now be ... so ..
+
+how much you said is payment gateway
+for paypal, I asked 150
+
+you are the man
+where to get it
+
+which?
+
+150 make this 80
+:( payment is not included in 430, make this 420
+coz payment is difficult
+total 500
+
+480
+i will ask my wife for 80
+
+I am so sorry to you to ask your wife, kk, but it is really, really .
+I can't say more to you
+
+the landing page come with page builder 
+so that i can edit or add website content
+
+sure, so include payment gateway, 500?
+
+you know what is page builder
+y
+
+how it work
+something like wix.com?
+what is wix
+that is the tool for building website with mouse, no coding
+
+something like that
+so that in time i can change the write up as we get close to launch the real app
+
+yes
+
+without go to fpt 
+or cp
+
+yes
+
+480
+500 
+payment gateway is ...
+
+480 dealed
+good
+let try to upload the file online tomorrow
+is already 2am here going to 2.30am
+
+me too.
+
+what time tomorrow???
+
+in the afternoon,
+
+2 3 4 
+2~4 anytime yo
+ok
+
+and can you help me?
+
+how
+
+good review on freelancer.
+
+is better i write it when all is ok
+so that freelancer dont take from you money
+
+freelancer will take money from me withouthofail, as 10%
+
+i meant take only 1 time
+
+no, I already sent 25$ and when I get the rest 230, then I will send the freelancer 23$ without fail
+
+so total 48 = 480/10
+
+ok
+
+and tomorrow, when cpanel works well, would you release the current one?
+
+ok
+
+good morning
+
+haha, alrady not good night.
+
+good morning,
+
+see you at 2pm later today
+see you
+
+send me this file now.
+
+in the morning
+i have to send my boy to school and go to work
+
+so send me this file now.thankyo
+
+i have to ask someone to do the logo in the file you want
+yes
+
+

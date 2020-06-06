@@ -1,0 +1,6 @@
+{
+    "require": {
+        "telesign/telesign": "^2.2",
+        "sendgrid/sendgrid": "^7.3"
+    }
+}

@@ -1,0 +1,2 @@
+user :  test@gmail.com     pass : root
+admin:  admin@gmail.com	   pass : root
